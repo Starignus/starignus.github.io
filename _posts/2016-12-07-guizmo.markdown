@@ -1,0 +1,22 @@
+---
+title:  "Gizmo(Physical Computing) at IC"
+subtitle: "A Workshop to Develop your Ideas"
+author: "Ariadna Blanca Romero (Starignus)"
+avatar: "img/authors/avatar_startinugs_small.png"
+image: "img/blog/Gizmo/gizmo_3.jpg"
+date:   2015-04-24 12:12:12
+---
+
+The last winter term I enjoyed as the instructor on the Raspberry Pi and Python programming of the [**Gizmo (Physical Computing)**](http://www.imperial.ac.uk/design-engineering/study/meng/modules/year-2/gizmo-physical-computing/) workshop along with my friend [Jing Sheng Pang](https://uk.linkedin.com/in/jingshengpang). It is a module of the program second year of the [**MEng in Design Engineering at the Dyson School of Design Engineering at Imperial College**](http://www.imperial.ac.uk/design-engineering/study/meng/). At the end of the sessions, the students will be challenged to design and produce functioning prototypes, demonstrating principles, for a machine that effectively integrates machine elements, sensors and actuators and software to perform a specified function. I was thrilled to see the outcome of all the effort of the students.  Here I share a brief video of some of the projects I had the opportunity to evaluate on the presentation day.  
+
+<p align="center">
+  <iframe width="640" height="360" src="https://www.youtube.com/embed/oj8kNoBQxrs" frameborder="0" allowfullscreen></iframe>
+</p>
+
+One of my favourites ones (because I could help just a bit on the programming side), was the work of designed and developed by Ina Roll Backe, Tilly Supple, Carla Urbano, and Bea Lopez. They constructed the BMIC, which is a mechanical drum sequencer. From a 4x3 step sequencer controller, the user can input combinations of beats and instruments. The inputs are interpreted by a programmed Raspberry Pi, that sends output to three solenoids accordingly, each attached to a drum hitting mechanism. I enjoyed the show of the BMIC.
+
+<p align="center">
+  <iframe width="640" height="360" src="https://www.youtube.com/embed/7tKDGYe-Ae8" frameborder="0" allowfullscreen></iframe>
+</p>
+
+If you want to follow the material taught on Raspberry Pi and Python programming you can go to the [**Blog of Gizmo**](https://starignus.github.io/PythonPractise//).

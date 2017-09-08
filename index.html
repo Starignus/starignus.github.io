@@ -1,61 +1,91 @@
+---
+layout: compress
+---
 <!DOCTYPE html>
-<html lang="en-us">
-  <head>
-    <meta charset="UTF-8">
-    <title>Starignus Coding World by Starignus</title>
+<html lang="en" class="no-js">
+<head>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
-    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
-  </head>
-  <body>
-    <section class="page-header">
-      <h1 class="project-name">Dr. Ariadna Blanca Romero </h1>
-      <h2 class="project-tagline">Co-Founder, Data Scientist and Developer </h2>
-    </section>
-
-    <section class="main-content">
-      <h3>
-<a id="Presenting" class="anchor" href="#Presenting" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Who am I?</h3>
-
-<p><a href="https://uk.linkedin.com/in/starignus">I am</a> highly motivated, enthusiastic fast-learner data scientist with 8+ years of coding, data analysis and research experience. I have proficiency in the simulation of materials in high-performance computing. Excellent writing, communication and teamwork skills.</p> 
-
-<h3>
-<a id="Objejtives" class="anchor" href="#Objectives" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>What are my goals?</h3>
-
-<p>I am pursuing a career as a Data Scientist and passionate about applying new technologies, machine learning, and data analytics to understand human behaviour, make strategic business decisions and develop products that help to improve people’s lives. 
-
-I think we live in an age of turning data into innovative business and technological solutions, so I want to be part of that! </p>
-        
-<h3>
-<a id="new" class="anchor" href="#new" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Innovating in the world!</h3>
-      
-<p>With the aim of improving the community and the environment using data collected by IoT, the concept of <a href="http://www.neurontechnology.info/">Neuron Technology Ltd</a> emerged. Neuron technology is creating a community aided building management system to improve user experience and building efficiency. With the main impact in reducing carbon footprints, saving energy, and enhancing users working areas. I work on this concept with my Co-Founder <a href="https://uk.linkedin.com/in/jingshengpang">Dr Jing Sheng Pang</a>. 
-</p>        
-
-<h3>
-<a id="Bio" class="anchor" href="#Bio" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>More about my background.</h3>
-
-<p>I got a degree in Physics from <a href="http://www.udlap.mx/">Universidad de las Américas Puebla</a>, and a PhD in Physics (Computational Material Science) from <a href="http://www.fisica.unam.mx/"> The National Autonomous University of Mexico </a>.</p>
-
-<p>As a postdoctoral researcher, I worked at the <a href="http://www.kristallographie.geowissenschaften.uni-muenchen.de/forschung/compmatsci/index.html">Ludwig Maximilian University of Munich</a>, <a href="http://www.fz-juelich.de/portal/EN/AboutUs/organizational_structure/Institutes/InstituteEnergyClimate/_node.html">Juelich Forschungszentrum</a>, and <a href="http://www.imperial.ac.uk/">Imperial College London</a>, where I analysed and performed quantum mechanics simulations to get a better understanding of the atomic structure of materials and the phenomena they display, which can lead to significant technological applications.</p>
-
-<p> In my academic career, I have collaborated with researchers in Germany, USA, and Mexico. Successfully submitted a research collaboration proposal between Germany and UK, resulting in awarded grant for travelling during 2014-2015. Besides, I forged and nurtured a new network between German and Mexican research institutions, providing access to knowledge, expertise, and scientific facilities to Mexican PhD students in cutting-edge labs.</p>        
-        
-<h3>
-<a id="Hobbies" class="anchor" href="#Hobbies" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Hobbies</h3>
-
-<p>As you have noticed, I love Science! I am naturally curious and decided to become a physicist when I was 5 years old. I like to inspire and make people think and feel curious. I do not like ignorance, especially when it is communicated through media. Therefore, I collaborate in a blog of popular science in Spanish, called <a href="http://blog.carbono.xyz/">Pedazos de Carbono</a>, to boost critical thinking in Latino American countries. Besides Science, I love <a href="https://www.facebook.com/qflavours">cooking </a> and running long distances (10 K-15 K).</p>
-
-
-      <footer class="site-footer">
-
-        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
-      </footer>
-
-    </section>
-
-  
-  </body>
+    <title>{{ site.title }}</title>
+    <meta name="description" content="{{ site.description }}"/>
+    <meta name="keywords" content="{{ site.keywords }}"/>
+    <meta name="author" content="{{ site.author }}"/>
+    <link rel="shortcut icon" href="img/graphene.ico">
+    <link rel="stylesheet" type="text/css" href="css/normalize.css"/>
+    <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.css"/>
+    <link rel="stylesheet" type="text/css" href="css/modern-blog.css"/>
+    <!--[if IE]>
+    <script type="text/javascript" src="js/vendors/html5.min.js"></script>
+    <![endif]-->
+    <script>
+        if (navigator.userAgent.toLowerCase().indexOf('firefox') > -1) {
+            var root = document.getElementsByTagName('html')[0];
+            root.setAttribute('class', 'ff');
+        }
+    </script>
+</head>
+<body class="body">
+<div class="container">
+    <header class="header">
+        <h1>Ariadna Blanca Romero (Starignus) <span> Physicist, Data Scientist, Co-Founder and Developer</span></h1>
+        <nav class="links">
+            <a href="http://github.com/Starignus"><i class="fa fa-github-square fa-3x"></i></a>
+            <a href="https://twitter.com/starignus"><i class="fa fa-twitter-square fa-3x"></i></a>
+            <a href="https://www.instagram.com/starignus"><i class="fa fa-instagram fa-3x"></i></a>
+            <a href="https://www.linkedin.com/in/starignus"><i class="fa fa-linkedin-square fa-3x"></i><a/>
+            <!-- <a href="#"><i class="fa fa-facebook-square fa-3x"></i></a>
+            <a href="#"><i class="fa fa-tumblr-square fa-3x"></i></a> -->
+        </nav>
+    </header>
+    <div class="content">
+        <!-- trianglify pattern container -->
+        <div class="pattern pattern--hidden"></div>
+        <!-- cards -->
+        <div class="wrapper">
+            {% for post in site.posts %}
+            <div class="card" data-id="{{ post.id }}">
+                <div class="card__container card__container--closed">
+                    <svg class="card__image" xmlns="http://www.w3.org/2000/svg"
+                         xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1200"
+                         preserveAspectRatio="xMidYMid slice">
+                        <defs>
+                            <clipPath id="{{ post.id }}-clip-path">
+                                <polygon class="clip" points="0,1200 0,0 1920,0 1920,1200"></polygon>
+                            </clipPath>
+                        </defs>
+                        <image clip-path="url(#{{ post.id }}-clip-path)" width="1920" height="1200"
+                               xlink:href="{{ post.image }}"></image>
+                    </svg>
+                    <div class="card__content">
+                        <i class="card__btn-close fa fa-times"></i>
+                        <div class="card__caption">
+                            <h2 class="card__title">{{ post.title }}</h2>
+                            <p class="card__subtitle">{{ post.subtitle }}</p>
+                        </div>
+                        <div class="card__copy">
+                            <div class="meta">
+                                <img class="meta__avatar" src="{{ post.avatar }}"/>
+                                <span class="meta__author">{{ post.author }}</span>
+                                <!-- <span class="meta__date">{{ post.date | date: "%Y-%m-%d" }}</span> -->
+                            </div>
+                            {{ post.content }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+            <!-- /cards -->
+        </div>
+    </div>
+    <!-- /container -->
+</div>
+<!-- JS -->
+<script src="js/vendors/trianglify.min.js"></script>
+<script src="js/vendors/TweenMax.min.js"></script>
+<script src="js/vendors/ScrollToPlugin.min.js"></script>
+<script src="js/vendors/cash.min.js"></script>
+<script src="js/card-modern-blog.js"></script>
+<script src="js/modern-blog.js"></script>
+</body>
 </html>

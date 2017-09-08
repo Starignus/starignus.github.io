@@ -1,0 +1,76 @@
+---
+title:  "Closing the gap"
+subtitle: "Unsung Women in STEM"
+author: "Ariadna Blanca Romero (Starignus)"
+avatar: "img/authors/avatar_startinugs_small.png"
+image: "img/blog/STEM/STEM_1.jpg"
+date:   2015-04-25 12:12:12
+---
+
+*Original post published in [S2DS Blog](http://blog.s2ds.org/2017/03/closing-the-gap-unsung-women-in-stem/).*
+
+It is only in recent years that I have became conscious of the fact that most mentors throughout my career have been male. Trained as Physicist, from the bachelor to a postdoctoral researcher, being surrounded by men seemed perfectly normal. We just need to remember Marie Curie as the only woman on the iconic pictures of the Solvay Conference of 1927! Today, as a Data Scientist, the story does not seem too different either. But why had it felt “normal” all this time? And why do women in STEM areas still seem too few and too hidden, or even invisible from the public view, despite their outstanding contributions?
+
+<figure align="center">
+    <img src="/img/blog/STEM/Solvay_conference_1927.jpg" alt="loop" align="middle" style="width: 400px;"/>
+    <figcaption> Solvay Conference of 1927.</figcaption>
+</figure>
+
+As a child, my views on science were influenced by scientific “rock stars” like Galileo, Newton, Einstein, Darwin, Carl Sagan and **Marie Curie**. I wanted to become one of them; unquenchable knowledge seekers, without actually paying any attention to their gender. They were just humans, like me, impatient to uncover the secrets of nature. Of course, had I known more women in science, I would have gained a broader view of the possibilities and the challenges that may lay ahead, as well as a much wider source of inspiration to fuel my endeavours.
+
+
+Who would not be inspired by the likes of [**Hypatia**](https://en.wikipedia.org/wiki/Hypatia) of Alexandria, mathematician, philosopher and astronomer head of the Neoplatonic School, [**Ada Lovelace**](https://en.wikipedia.org/wiki/Ada_Lovelace), the first computer programmer, [**Emmy Noether**](https://en.wikipedia.org/wiki/Emmy_Noether), pioneer of abstract algebra whose theorem underpins much of modern physics, [**Florence Nightingale**](https://en.wikipedia.org/wiki/Florence_Nightingale), a statistician who founded modern nursing and the world’s first secular nursing school, [**Lise Meitner**](https://en.wikipedia.org/wiki/Lise_Meitner), the first woman to be given a professorship in physics in Germany and paved the way for the discovery of nuclear fission (but was, contentiously, not awarded the 1914 Nobel Prize along with his collaborator), [**Gertrude Mary Cox**](https://en.wikipedia.org/wiki/Gertrude_Mary_Cox) founded the Experimental Statistics Department at NC State University,  [**Grace Hopper**](https://en.wikipedia.org/wiki/Grace_Hopper), created the first compiler for a computer programming language, [**Mary Winston Jackson**](https://en.wikipedia.org/wiki/Mary_Jackson_(engineer)), mathematician and first black female aerospace engineer at NASA, [**Katherine Johnson**](https://en.wikipedia.org/wiki/Katherine_Johnson), physicist and mathematician whose calculations were critical to the success of many NASA missions, or [**Dorothy Vaughan**](https://en.wikipedia.org/wiki/Dorothy_Vaughan), mathematician and first African-American woman supervisor at the NACA centre, taught herself and her staff females the FORTRAN programming language. Who would not feel enthused about the team that programmed the first all-electronic multi-purpose computer ENIAC: [**Kay McNulty**](https://en.wikipedia.org/wiki/Kathleen_Antonelli), [**Betty Jennings**](https://en.wikipedia.org/wiki/Jean_Bartik), [**Betty Snyder**](https://en.wikipedia.org/wiki/Betty_Holberton), [**Marlyn Meltzer**](https://en.wikipedia.org/wiki/Marlyn_Wescoff), [**Fran Bilas**](https://en.wikipedia.org/wiki/Frances_Spence), and [**Ruth Lichterman**](https://en.wikipedia.org/wiki/Ruth_Teitelbaum). These are just some examples of women that have been extraordinarily influential in STEM disciplines, and whose accomplishments forged the path for more women to get opportunities within these fields.
+
+<figure align="center">
+    <img src="/img/blog/STEM/STEM_2.jpg" alt="loop" align="middle" style="width: 400px;"/>
+    <figcaption> Some women in the history of Science.</figcaption>
+</figure>
+
+However, the road women have to walk is not yet clear of obstacles. Women still seem to be kept hidden from the sight of laypeople and, therefore, from the newest generation of children. In this era of the data revolution, women continue being a minority in the workforce. **Even though more girls than ever are studying and excelling in science and mathematics, the proportion of women in the workforce is sadly declining from 52.4% to 49.6% globally between 1995 and 2015 [1, 3]**; on the world’s boards seats the proportion is only 12%. Most women in the workforce, 60%, are employed in the service sector (mostly informal). [1, 2] Average earnings of women worldwide are about 60 to 75% of men’s salary [3, 4]. Looking only at computing professionals in the US, the proportion of women has shrunk from 35% in 1990 to 26% in 2013; among all engineers, women make up just 12% [5]. Tech companies such as Google, Facebook, and Apple have released the gender and racial/ethnic makeup of their technical workforce with 17%, 15% and 20% of women correspondingly.  In research, even though the number of women enrolling in university is growing, many withdraw during their career progression. As a consequence, women make up only 30% of world’s researchers (you can see a visualisation of the data in the  Women in Science interactive tool [6]).
+
+<figure align="center">
+    <img src="/img/blog/STEM/AAUW.jpg" alt="loop" align="middle" style="width: 700px;"/>
+    <figcaption> Solving the Equation: The Variables for Women’s Success in Engineering and Computing [5].</figcaption>
+</figure>
+
+Many questions thus arise: **what are the factors hindering the development of women as professionals worldwide? What are the challenges that women have to face, and what opportunities could bring more of them to Data Science and other STEM professions?**
+
+I believe the core challenges we face, holding back not just women but everyone, are stereotypes and bias. These are shaped at the heart of every culture, passed down from generation to generation, influencing how we think, treat one another, perceive ourselves and, as a consequence, the actions we take. However, they can not be modified until we make a conscious effort to do so; to intentionally drive the cultural evolution towards the benefit of our society. A better quality of life in the world can be achieved if we bring diversity to the workforce. Including the creativity, productivity, and innovation of everyone—regardless of gender, age, sexuality, background or ethnicity—makes a stronger basis for human development.
+
+**Stereotypes and bias, if we are not aware of them, lead to ineffective talent acquisition in the workforce**. A study from the American Association of University Women [5], for example, has shown that for a presumed lab job position, both female and male members of the scientific faculty were more likely to select a male candidate, and offer him a higher salary, over an identical female candidate. Another study highlighted how potential employers systematically underrated the mathematical capability of women compared with men, resulting in the hiring of lower-performing men over higher performing women [5]. Worryingly, stereotype and bias effects emerge as early as childhood. A survey performed in the UK and the Republic of Ireland [7] found that both 57% of parents and 53% of teachers recognised having made subconscious stereotypes about girls and boys regarding STEM, and 54% of teachers declared to have seen girls dropping STEM subjects due to pressure from parents. In another study run by Illinois University, researchers found that five-year-old tended to believe that members of their gender were brilliant, although, by age six, girls are less likely than boys to think their gender is the most brilliant—this difference driven by the influence of gender stereotypes.
+
+<figure align="center">
+    <img src="/img/blog/STEM/AAUW_2.jpg" alt="loop" align="middle" style="width: 700px;"/>
+    <figcaption> Stereotypes and Bias Are Holding Everyone Back [5].</figcaption>
+</figure>
+
+It is scary to think how the view of ourselves has been influenced over the years. After reading an article from Brittany Pugh (Data Scientist at Elder Research) [9] in which she describes two types of self-perception obstacles called the “because I am a woman” mentality and “the over-achiever” expectation, I could identify these patterns among my female colleagues. Particularly the latter, related to the **impostor syndrome**, has also been true for me; the hesitancy of taking on projects unless we believe we are highly qualified, or even overqualified. Apparently men do not tend to show this behaviour. These unconscious perceptions can hold us back from taking risks and making the most of excellent opportunities. Hence, we have to be self-aware of our strengths, achievements, and to get grow our confidence in our capabilities (stopping auto sabotage), and share our experience and knowledge with other women.
+
+<figure align="center">
+    <img src="/img/blog/STEM/Impostor.jpg" alt="loop" align="middle" style="width: 700px;"/>
+    <figcaption> Impostor Syndrome.</figcaption>
+</figure>
+
+
+Fortunately, at a time when data is “the new bacon”, women can flourish as data scientists as there are a large and growing number of opportunities, thanks to many networking events like conferences, workshops, and talks. For example, let’s mention the **BCSWomen** [10], **Women Who Code** [11], **WiDS Conference** organised worldwide in 75 locations [12], **Women in Data Conference** [13], and the [**S2D2**]((http://www.s2ds.org/)) data science training programme which is the largest in Europe with participation of 35% women. These events encourage, motivate, develop, educate and let us share experiences with other women in the field. A bright side in a data science career is that we can find a welcoming environment that supports a work-life balance [14] (providing flexibility with personal career growth and family), as well as getting the benefit of working in diverse teams that stimulate our creativity and push our continuous learning.
+
+Bringing out more women into STEM fields, including Data Science, can be pursued by working against the bias in the core of both women and men’s minds, and by making available a range of opportunities for success. It is important to have access to role models with expertise in the field, that current and aspiring women in Data Science (and other STEM subjects) could admire and contact for advice, mentorship, encouragement, and motivation. As it turns out, they are easy to find. Now is the time for us flourish and get the chance to inspire others. It is especially the time to strive for gender parity, as Claudia Perlich (Chief Scientist at Dstillery) has said [15]: **“True gender blindness. Our goal is a world where women leaders come easily to the mind of data scientists of both genders, and I no longer have to wonder whether I have been invited primarily because I am a woman”**.
+
+### References
+
+1. [International Labour Office, Women at Work: Trends 2016 (2016)](http://www.ilo.org/wcmsp5/groups/public/---dgreports/---dcomm/---publ/documents/publication/wcms_457317.pdf).
+2. [Statistical Overview Of Women In The Workforce](http://www.catalyst.org/knowledge/statistical-overview-women-workforce).
+3. [UN Women. Facts and Figures: Economic Empowerment](http://www.unwomen.org/en/what-we-do/economic-empowerment/facts-and-figures).
+4. [World Bank Gender Data Portal](http://datatopics.worldbank.org/gender/key%20gender%20employment%20indicators).
+5. [A study from American Association of University Women (AAUW): Hill, C. (2013). Solving the Equation: The Variables for Women’s Success in Engineering and Computing](http://www.aauw.org/research/solving-the-equation/).
+6. [UNESCO: Women in Science interactive tool](http://www.uis.unesco.org/_LAYOUTS/UNESCO/women-in-science/index.html#!lang=en).
+7. [Business Wire website (2017, Feb 7). Accenture Finds Girls’ Take-up of STEM Subjects is Held Back by Stereotypes, Negative Perceptions and Poor Understanding of Career Options](http://www.businesswire.com/news/home/20170206005956/en/Accenture-Finds-Girls%E2%80%99-Take-up-STEM-Subjects-Held).
+8. [Lin Bian et al (2017, Jan 27). Young girls less likely to attribute brilliance to their own gender](https://www.eurekalert.org/pub_releases/2017-01/aaft-ygl012317.php).
+9. [Brittany Pugh (2016, Jul 21) Obstacles and Opportunities for Women in Data Science](http://www.elderresearch.com/company/blog/obstacles-and-opportunities-for-women-in-data-science).
+10. [BCSWomen](http://www.bcs.org/category/8630)
+11. [Women Who Code](https://www.womenwhocode.com/).
+12. [WiDS Conference](http://www.widsconference.org/).
+13. [Women in Data Conference](http://www.datatech.org.uk/women-in-data-2016.aspx).
+14. [Glassdoor survey for best work-life balance.
+Claudia Perlich (2014, Oct 20)](http://www.cnbc.com/2016/10/04/data-science-jobs-top-glassdoor-survey-for-best-work-life-balance.html).
+15. [Women in Data Science Are Invisible. We Can Change That](https://www.wired.com/2014/10/women-data-science-invisible-can-change/).
