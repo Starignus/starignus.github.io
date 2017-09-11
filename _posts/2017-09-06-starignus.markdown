@@ -10,7 +10,7 @@ date:   2017-09-06 12:12:12
 I am highly motivated, an enthusiastic **Data Scientist** with experience in coding and performing data analysis. I was trained as a physicist, and during my PhD,  I specialised in quantum mechanics simulations that provide insights into the correlation between the atomic structure of materials and the unusual physical properties they display which can lead to significant technological applications (e.g. high-temperature superconductivity, corrosion inhibition, optoelectronics.
 
 <p align="center">
-  <img src="/img/authors/starigus_pysics.jpg" alt="loop" align="middle" style="width: 400px;"/>
+  <img src="/img/authors/starigus_pysics.jpg" alt="loop" align="middle" style="max-width:400px; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"/>
 </p>
 
 ## What are my goals?
