@@ -24,7 +24,7 @@ I have a degree in Physics from [**Universidad de las Américas Puebla**](http:/
 I became excited about Data Science field during my last year of postdoc, and I decided to participate in the [**Science to Data Science**](http://www.s2ds.org/) summer program organised by [Pivigo](https://www.pivigo.com/). After five weeks of intensive work learning together and having fun with my team, we delivered a prototype a price optimisation model which could yield multi-million-pound returns to one of the biggest car parts distributor of UK, the Parts Alliance Group. The best of the journey was to work with my team [(and **won the best presentation award together**)!](https://www.dataiq.co.uk/blog/data-sciences-champagne-supernova) I love to work with people of different backgrounds to learn to see things from a different sight.
 
 <figure align="center">
-    <img src="/img/authors/collage-experience.jpg" alt="loop" align="middle" style="width: 800px;"/>
+    <img src="/img/authors/collage-experience.jpg" alt="loop" align="middle" style="max-width:800px; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"/>
     <figcaption> Friends from around the world.</figcaption>
 </figure>
 
@@ -43,7 +43,7 @@ As you have noticed, I love Science! I am naturally curious and decided to becom
 An excellent starting to my Saturday is preparing fried eggs with shapes of a stars, astronauts and space rockets!
 
 <figure align="center">
-    <img src="/img/authors/spacialoveeggs.jpg" alt="loop" align="middle" style="width: 400px;"/>
+    <img src="/img/authors/spacialoveeggs.jpg" alt="loop" align="middle" style="max-width:400px; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"/>
     <figcaption> Spacial and Love eggs.</figcaption>
 </figure>
 
