@@ -4,7 +4,7 @@ subtitle: "A curious human made of start stuff"
 author: "Ariadna Blanca Romero (Starignus)"
 avatar: "img/authors/avatar_startinugs_small.png"
 image: "img/authors/Starignus.jpg"
-date:   2017-09-06 12:12:12
+date:   2017-09-23 12:12:12
 ---
 
 I am a highly motivated and enthusiastic **Data Scientist** with experience in coding and performing data analysis. I was trained as a physicist, and during my PhD,  I specialised in quantum mechanics simulations that provide insights into the correlation between the atomic structure of materials and the unusual physical properties they display which can lead to significant technological applications (e.g. high-temperature superconductivity, corrosion inhibition, optoelectronics.
