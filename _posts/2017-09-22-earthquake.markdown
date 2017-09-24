@@ -33,6 +33,11 @@ We, Mexicans, have been portrayed by foreign movies with hats, lazy and drinking
 
 How people can have access to more opportunities and education if the 2017 **basic salary of a Mexican is about € 2,081 annually before taxes (€ 95.6 monthly). The national average salary is €4,150 annually (€ 345.7 monthly) [3, 4, 5, 6]**. How can you support a family with that? We, Mexicans, are hard workers and earning a little salary (barely there are holidays). **The OECD reported that average employee in Mexico works 2,246 hours annually, the average employee in the world works 1,766 hours, and Germans are producing more capital for the least hours worked, 1,371 hours [7]**. Of course, we are manufacturer workers, and companies from abroad invest in cheap labour. There are high qualified Mexicans but is more likely that a middle-class child can have better opportunities, regardless of attendance to a private or public education. The new generation is working hard in learning, but few can access to internet to take free courses online (manly in the cities).
 
+<figure align="center">
+    <img src="/img/blog/Sismo/horastrabajo.jpg" alt="loop" align="middle" style="max-width:600px; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"/>
+</figure>
+
+
 We, Mexicans, despite all the disadvantages in our country, we love our nation, our home, our PEOPLE. I consider myself a citizen of the world, and I feel hopeless of not being able to make a significant change about all the unfairness, ignorance, and prejudice in my country. But after this event, something struck in my heart, I saw that part of my people that I have not seen for too long, **EMPATHY, SOLIDARITY,  and LOVE for another human**. We have a resilient spirit, and we try our best until the end. But we can not do it alone in this hard times. I ask you to consider donating to organisations providing emergency relief (**£1 ≈ $24 MXN pesos**, so any little help goes a long way!)  Most of the images of destruction in media come from the cities, but many small and poor towns are also suffering. In the next months, many households must be rebuilt, and Mexico will need to rise fundings. If you can help or share this information, we will be grateful, and our hearts will not feel hopeless.
 
 
